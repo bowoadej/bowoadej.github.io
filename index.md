@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+Hello! My name is Bowo Adejuyigbe. 
 
-Maybe say a some things about yourself.
+Welcome to my blog.
 
-Or maybe what you plan to blog about.
+In this blog, I talk about some of the small projects I am currently tinkering on, what work I have done in the past ,other ramblings about what I see in the software development space. 
+
+Hopefully you will stick around and have a look. 
